@@ -15,6 +15,9 @@ ovs_internal_sampling_fwd_tbl_number: 201
 5G_feature_set:
  enable: True
  node_identifier: 192.168.200.1
+
+paging_timeout: 30
+classifier_controller_id: 5
 ```
 
 add following line in `sessiond.yml`
