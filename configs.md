@@ -27,4 +27,8 @@ add following line in `subscriberdb.yml`
 m5g_auth_proc: True
 ```
 
+add following line in `gateway.mconfig`
+```
+"enableConvergedCore": true
+```
 
