@@ -21,3 +21,9 @@ add following line in `sessiond.yml`
 converged_access: true
 ```
 
+add following line in `subscriberdb.yml`
+```
+m5g_auth_proc: True
+```
+
+
