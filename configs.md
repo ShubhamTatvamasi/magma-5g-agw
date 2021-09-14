@@ -35,3 +35,10 @@ add following line in `gateway.mconfig`
 "enableConvergedCore": true
 ```
 
+check ports:
+```bash
+sudo netstat -l | grep sctp
+```
+
+
+
