@@ -3,6 +3,7 @@
 add following line in `mme.yml`
 ```
 congestion_control_enabled: true
+enable_converged_core: true
 ```
 
 add following lines in `pipelined.yml`
