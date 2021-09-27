@@ -1,6 +1,7 @@
 # magma-5g-agw
 
-https://github.com/openvswitch/ovs/actions
+https://github.com/openvswitch/ovs/actions \
+https://github.com/openvswitch/ovs/actions?query=branch%3Abranch-2.15
 
 https://rdr-it.com/en/ubuntu-18-04-add-multiverse-and-universe-repositories/
 
