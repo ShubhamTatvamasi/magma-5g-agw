@@ -2,6 +2,8 @@
 
 https://github.com/openvswitch/ovs/actions
 
+https://rdr-it.com/en/ubuntu-18-04-add-multiverse-and-universe-repositories/
+
 download latest magma packages:
 ```bash
 wget https://github.com/ShubhamTatvamasi/magma-agw-build/releases/download/09-12-2021--06-21-38/magma-sctpd_1.7.0-1631431614-9e52cffa_amd64.deb
