@@ -3,6 +3,10 @@
 https://github.com/openvswitch/ovs/actions \
 https://github.com/openvswitch/ovs/actions?query=branch%3Abranch-2.15
 
+http://archive.ubuntu.com/ubuntu/pool/main/o/openvswitch/ \
+http://archive.ubuntu.com/ubuntu/pool/main/o/openvswitch/openvswitch-switch_2.15.0-0ubuntu3_amd64.deb
+
+
 https://rdr-it.com/en/ubuntu-18-04-add-multiverse-and-universe-repositories/
 
 ```bash
